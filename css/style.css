@@ -1,0 +1,21 @@
+@font-face {
+  font-family: NewFont;
+  src: url(fonts/190-font.otf);
+}
+body{
+  background-color: #989797;
+}
+h1{
+  color: #210d5d;
+}
+img{
+  width: 500px;
+}
+a{
+  width: 20px;
+  height: 20px;
+  border: 0;
+}
+p{
+  font-family: NewFont;
+}
